@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
 
+
+int number_1 = 5;
 //1. Define a function thta takes a both string strings as an agrument
 //2. Loop through and compare the characters with the second string
 

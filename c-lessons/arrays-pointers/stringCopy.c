@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 void stringCopy(char *string1, char *string2);
 
 char firstString[] = "Hello";
